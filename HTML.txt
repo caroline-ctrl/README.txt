@@ -1,0 +1,2 @@
+nano est un éditeur de texte pour les systèmes Unix et dérivés, basé sur la bibliothèque ncurses et publié sous licence GNU GPL. C’est un clone libre de Pico, l’éditeur de texte du logiciel de courrier électronique Pine.
+Source Wikipédia
