@@ -1,1 +1,2 @@
+C'est sympa de se servir de github
 Git est un logiciel de gestion de versions décentralisé. C'est un logiciel libre créé par Linux Torvalds, auteur du noyau Linux... Wikipédia
